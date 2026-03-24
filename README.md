@@ -5,5 +5,5 @@
 <br>
 <br>
 <div>
-  <img src="https://github.com/Denis-Almeida-81/Easy-Shopping/blob/main/img/easy%20shopping.jpeg?raw=true" width="50%"
+  <img src="https://github.com/Denis-Almeida-81/Easy-Shopping/blob/main/img/easy%20shopping.jpeg?raw=true" width="50%"/>
 </div>
